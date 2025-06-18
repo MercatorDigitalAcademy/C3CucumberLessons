@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qacohortproject.iml" filepath="$PROJECT_DIR$/.idea/modules/qacohortproject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qacohortproject-build.iml" filepath="$PROJECT_DIR$/.idea/modules/qacohortproject-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CucumberProjectTemplate/qacohortproject.qacohortproject-build.iml" filepath="$PROJECT_DIR$/.idea/modules/CucumberProjectTemplate/qacohortproject.qacohortproject-build.iml" />
     </modules>
   </component>
 </project>
